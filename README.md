@@ -24,7 +24,7 @@ debug location:
 
         same bug.  Then just fill in the information pertaining to the bug you found.
 
-Google Doc:  https://docs.google.com/a/buffalo.edu/document/d/1kueJYpygsa2aKgDXcAmXWPaFZI9DpUMxhu0Fbsg9Pck/edit?usp=sharing
+Google form:  https://goo.gl/forms/UEVH3mE0h2I2ckqw2
 
 Debug report format:
 
